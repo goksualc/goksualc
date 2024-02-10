@@ -1,22 +1,16 @@
 <div align="center">
   <h1>Welcome to My GitHub Profile</h1>
-  <p>Hello, I'm Goksu, a dedicated computer engineering student and blockchain enthusiast with 3 years of experience. I specialize in developing developer tools, crafting clear instructions, and creating decentralized applications (dApps). Currently, I am a junior computer engineering student, with a specific focus on blockchain technology.
-  Currently, I'm Metis L2's DevRel, building materials for Metis devs. prev. Solana Foundation</p> <p>
- 
+  <p>
+My name is Goksu, and I am a computer engineering student with a keen interest in blockchain technology. Over the past three years, I have immersed myself in this field, honing my skills and gaining valuable experience. My areas of expertise lie in the development of developer tools, the creation of clear instructional materials, and the design and implementation of decentralized applications (dApps).
+
+As a junior in the field of computer engineering, I have directed my studies towards specializing in blockchain technology, recognizing its profound potential and significance in the realm of computing.
+
+Presently, I serve as the Developer Relations (DevRel) representative for Metis L2, where I am tasked with cultivating resources and materials to support developers within the Metis ecosystem. Prior to this role, I contributed to the Solana Foundation, further solidifying my understanding and proficiency within the blockchain space.
+
+I am eager to continue my journey within this dynamic field, contributing to its advancement and innovation wherever possible.
   </p>
 </div>
 
-
-<h1 align="center">My Tech Stack</h1>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react" alt="React.js"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" alt="VS Code"/>
-</div>
 
 # My Hackathon Projects
 
@@ -56,7 +50,6 @@ earning on the blockchain.
 - **Project Development:** I excel in the end-to-end project development lifecycle, from conceptualization to implementation, ensuring successful and timely delivery.
 
 - **Community Management:** Skilled in building and nurturing communities, I understand the importance of engagement and effective communication within a project's user base.
-
 
 
 ## Connect with Me
