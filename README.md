@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Welcome to My GitHub Profile</h1>
   <p>
-My name is Goksu, and I am a computer engineering student with a keen interest in blockchain technology. Over the past three years, I have immersed myself in this field, honing my skills and gaining valuable experience. My areas of expertise lie in the development of developer tools, the creation of clear instructional materials, and the design and implementation of decentralized applications (dApps).
+My name is Goksu, and I am a computer engineer with a keen interest in blockchain technology. Over the past three years, I have immersed myself in this field, honing my skills and gaining valuable experience. My areas of expertise lie in the development of developer tools, the creation of clear instructional materials, and the design and implementation of decentralized applications (dApps).
 
 As a junior in the field of computer engineering, I have directed my studies towards specializing in blockchain technology, recognizing its profound potential and significance in the realm of computing.
 
