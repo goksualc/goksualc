@@ -1,65 +1,60 @@
-<div align="center">
-  <h1>Welcome to My GitHub Profile</h1>
-  <p>
-My name is Goksu, and I am a computer engineer with a keen interest in blockchain technology. Over the past three years, I have immersed myself in this field, honing my skills and gaining valuable experience. My areas of expertise lie in the development of developer tools, the creation of clear instructional materials, and the design and implementation of decentralized applications (dApps).
+# 👋 Hi, I'm Göksu Alçınkaya  
 
-As a junior in the field of computer engineering, I have directed my studies towards specializing in blockchain technology, recognizing its profound potential and significance in the realm of computing.
+💻 **Computer Engineer | Blockchain & Security Engineer | Community Builder**  
+🌍 Based in **New York City**  
+🚀 Passionate about **Blockchain Security, Cryptography, Developer Relations, and Creative Coding**  
 
-Presently, I serve as the Developer Relations (DevRel) representative for Metis L2, where I am tasked with cultivating resources and materials to support developers within the Metis ecosystem. Prior to this role, I contributed to the Solana Foundation, further solidifying my understanding and proficiency within the blockchain space.
+---
 
-I am eager to continue my journey within this dynamic field, contributing to its advancement and innovation wherever possible.
-  </p>
-</div>
+## ✨ About Me
+I’m a **developer, researcher, and tech community builder** with over **4 years of experience in the blockchain ecosystem**.  
+My work blends **security engineering** with **user-focused design** – from building decentralized identity systems to mentoring developers at hackathons.  
 
+I’ve collaborated with **startups, DAOs, research labs, and global events** to make Web3 more secure, accessible, and inclusive.  
 
-# My Hackathon Projects
+---
 
-## CharmLSP
+## 🛠 Tech Stack
+**Languages:** Java, Python, C++, JavaScript, TypeScript  
+**Frameworks & Tools:** React, Next.js, FastAPI, Node.js, Docker  
+**Blockchain:** Solidity, Ethereum, Layer 2s, Cross-chain protocols  
+**Security:** Smart Contract Auditing, Blockchain Security Research, Cryptographic Protocols  
+**Other:** Git, Figma, Tailwind CSS, Vercel
 
-CharmLSP, a groundbreaking project on the Lukso blockchain, revolutionizes user engagement by seamlessly integrating Instagram login into its DApp and Web3 wallet. It initiates token transfers to users' Instagram addresses, eliminating the need for a separate Universal Profile setup. CharmLSP prioritizes user convenience and positions itself as a trailblazer in user-friendly decentralized applications and Web3 wallets within the Social & Community category.
+---
 
-- [Project Link](https://app.buidlbox.io/projects/charmlsp)
-- [GitHub Repository](https://github.com/bahadircan-bc/hackathon-lukso-wallet)
+## 🚀 Featured Projects
+- **[OutfitEase](#)** – Fashion-tech app aggregating influencer & celebrity outfits with purchase links.  
+- **[Finwise](#)** – AI-powered investment guidance platform analyzing fund performance, profiling user risk, and offering tailored portfolio suggestions with educational explanations. *(Capstone Project)*  
+- **[SSI Türkiye](#)** – Self-sovereign identity platform for secure decentralized ID management.  
+- **[ChainFeed](#)** – Cross-exchange trading engine with real-time data aggregation.  
+- **[CharmLSP](#)** – Layered smart contract security protocol for DeFi platforms.  
+- **[Wiser](#)** – Blockchain-based academic credential verification system.
 
-## Wiser
+---
 
-Wiser revolutionizes crypto betting with a fully on-chain, community-driven platform. It ensures transparency, fairness, and user engagement through features like Verifiable Random Function, a user-shared bankroll system, decentralized governance, and blockchain security. With future plans for social interaction, AI assistance, and enhanced anonymity, Wiser aims to create a secure and transparent space where every gambler can enjoy informed and autonomous betting.
+## 🌍 Community & Leadership
+- **Founder** – H.E.R. DAO Türkiye *(Women-focused developer DAO)*  
+- **Ambassador** – Former Solana Foundation OG Ambassador  
+- **Hackathon Moderator** – ETHGlobal (Istanbul, Paris, London)  
+- **Speaker & Mentor** – Multiple blockchain conferences & developer events
 
-- [Project Link](https://ethglobal.com/showcase/wiser-e9brh)
-- [GitHub Repository](https://github.com/bahadircan-bc/hackathon-eth)
+---
 
-## SolLearn
+## 📈 Current Focus
+- Blockchain security & cryptography research  
+- Developer Relations & Technical Product Management  
+- Building products that merge usability, creativity, and security
 
-SolLearn, my award-winning project that clinched the top spot in the UpSchool
-Hackathon, is a cutting-edge learn-to-earn decentralized application (DApp) built on
-the Solana blockchain. This innovative platform offers a decentralized educational
-program, granting NFT certifications upon successful completion of training materials
-and assessments, showcasing a pioneering approach to combining learning and
-earning on the blockchain.
+---
 
-- [Hackathon Presentation Link](https://www.youtube.com/watch?v=X6Fqd6_D3Zg&t=4031s)
-- [GitHub Repository](https://github.com/goksualc/SolLearn)
+## 📬 Connect with Me
+- **Portfolio:** [goksualcinkaya.vercel.app](https://goksualcinkaya.vercel.app)  
+- **LinkedIn:** [linkedin.com/in/goksualcinkaya](https://linkedin.com/in/goksualcinkaya)  
+- **GitHub:** [github.com/goksualc](https://github.com/goksualc)  
+- **Twitter:** [@0xgks](https://twitter.com/0xgks)  
+- **Email:** goksualcinkaya@gmail.com  
 
+---
 
-## Key Skills and Expertise
-
-- **Team Management:** Experienced in leading and managing teams, I thrive in collaborative environments and foster positive relationships with teammates.
-
-- **Software Development:** Proficient in various programming languages and frameworks, I contribute to the development of robust and efficient software solutions.
-
-- **Project Development:** I excel in the end-to-end project development lifecycle, from conceptualization to implementation, ensuring successful and timely delivery.
-
-- **Community Management:** Skilled in building and nurturing communities, I understand the importance of engagement and effective communication within a project's user base.
-
-
-## Connect with Me
-
-   <a href="https://twitter.com/0xgks">
-      <img src="https://img.shields.io/badge/-@0xgks-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" alt="Twitter Badge"/>
-    </a>
-    <a href="https://github.com/goksualc">
-      <img src="https://img.shields.io/badge/-@goksualc-%23181717?style=flat-square&logo=github" alt="GitHub Badge"/>
-    </a>
-
-I am enthusiastic about leveraging technology to create meaningful and innovative solutions. If you're looking for a dedicated and versatile team member with a passion for blockchain and technology, feel free to reach out!
-
+⭐ *Feel free to explore my repositories – from blockchain experiments to full-stack apps and security research projects.*
